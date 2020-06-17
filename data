@@ -1,0 +1,22 @@
+"data":{
+      "Claim Details":{
+         "1-128920":[
+            {
+               "Siebel Received Date":"17-Jun",
+               "Coverage Group":"Field Actions",
+               "Model ID":1,
+               "Decision":"Intelligent Adjudicated",
+               "Received in Intelligent Adjudication On":"17-Jun 09:30:09",
+               "Decision Date Time":"17-Jun 09:30:30",
+               "Decision Duration":"21Sec"
+            }
+         ],
+         "Volume_Details":{
+            "total_claims_from_the_siebel":60,
+            "ODM_auto_adjudicated_claims":39,
+            "claim_processed_by_intelligent_adjudication":1,
+            "Intelligent _adjudication_claim_quantity":1,
+            "Intelligent Adjudication % Based on Claims Sent to Intelligent Adjudication Solution":"100%"
+         }
+      }
+   }
